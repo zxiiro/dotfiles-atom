@@ -1,0 +1,8 @@
+packages: [
+  "coala"
+  "editorconfig"
+  "git-plus"
+  "minimap"
+  "package-sync"
+  "project-manager"
+]
