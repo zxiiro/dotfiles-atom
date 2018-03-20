@@ -1,6 +1,7 @@
 packages: [
   "coala"
   "editorconfig"
+  "git-blame"
   "git-plus"
   "minimap"
   "package-sync"
