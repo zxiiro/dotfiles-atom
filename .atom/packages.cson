@@ -1,6 +1,5 @@
 packages: [
   "autocomplete-paths"
-  "coala"
   "editorconfig"
   "file-icons"
   "git-blame"
